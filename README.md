@@ -1,0 +1,15 @@
+# SpringStudent
+
+##  SPRING BOOT 
+
+## DEVELOPER TOOLS
+ 
+## SPRING DATA JPS
+
+## API/HTTP
+
+## ERROR HANDLING
+
+## DATABASE & MARIADB
+
+## ETC..
